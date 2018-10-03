@@ -1,1 +1,1 @@
-# Bas-module-for-Excel-VBA
+# Bas module for Excel-VBA
